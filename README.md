@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Lindeneg/lindeneg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+<p>My name is <span>Christian</span> and I'm currently employed by <a href="https://www.maersk.com" target="_blank" rel="noreferrer">@Maersk</a> in Software Engineering.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lindeneg&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindeneg&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+</br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lindeneg&show_icons=true&theme=onedark)
