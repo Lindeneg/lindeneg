@@ -6,11 +6,11 @@
 
 </br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lindeneg&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lindeneg&theme=onedark)]
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindeneg&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindeneg&theme=onedark)]
 
 </br>
 
