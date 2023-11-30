@@ -4,6 +4,6 @@
 
 <p>My name is <span>Christian</span> and I'm currently employed by <a href="https://www.maersk.com" target="_blank" rel="noreferrer">@Maersk</a> in Software Engineering.</p>
 
-![github-stats](https://github-readme-stats.vercel.app/api?username=lindeneg&hide=contribs,issues&theme=dark&include_all_commits=true)
+![github-stats](https://readme-stats-br59.vercel.app/api?username=lindeneg&hide=contribs,issues&theme=dark&include_all_commits=true)
 
-![language-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lindeneg&theme=dark)
+![language-stats](https://readme-stats-br59.vercel.app/api/top-langs/?username=lindeneg&theme=dark&count-private=true)
